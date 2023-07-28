@@ -6,4 +6,4 @@
 - BOOTSTRAP
 - JAVASCRIPT
 
-![Alt text](image.png)
+![Alt text](calculadora.png)
